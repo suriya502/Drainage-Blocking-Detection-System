@@ -1,7 +1,7 @@
 # Drainage-Blocking-Detection-System
 Project #1
 
-Project Name: "Drainage Blocking Detection System".
+Project Name: "Drainage Blocking Detection System"
 
 Objective:
 The objective of this project is to detect possible drainage blockage by monitoring the water level using a water sensor and displaying warning messages through an LCD display and LED indicator.
